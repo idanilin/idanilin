@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @idanilin
+- 👀 I’m interested in Swift
+- 🌱 I’m currently learning Create ML for Xcode
+- 💞️ I’m looking to collaborate on iOS projects
+- 📫 How to reach me: @idanilin (telegram)
