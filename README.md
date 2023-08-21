@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @idanilin
-- 👀 I’m interested in Swift
-- 🌱 I’m currently learning Create ML for Xcode
-- 💞️ I’m looking to collaborate on iOS projects
-- 📫 How to reach me: @idanilin (telegram)
+Results-driven ML Engineer with a strong software engineering background and 6 years of experience. Expertise in developing predictive learning models and training credit scoring models for major banks, improving risk assessment. Proven track record in implementing recommendation systems for online stores, driving increased customer engagement and sales. Passionate about leveraging machine learning to enhance student progress and engagement in the EdTech sector.
